@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Agent"
+  short_description: "Operate web browsers safely with auth handoff"
+  default_prompt: "Use $web-agent before operating a browser or web automation flow that may require user authentication."
