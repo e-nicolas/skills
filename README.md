@@ -8,6 +8,7 @@ Agent skills I use in my day-to-day work.
 
 - [`pragmatic`](./skills/pragmatic/SKILL.md) - treats prompts as hypotheses and grounds responses in facts, evidence, documentation, data, or explicit logic. I use it for research, planning, and building new things.
 - [`pink-elephant`](./skills/pink-elephant/SKILL.md) - shapes prompts, instructions, and requested planning changes around the intended outcome so the context stays clean, direct, and aligned with what the AI should do. I use it when refining plans, prompts, and text without carrying distracting context forward.
+- [`task-breakdown`](./skills/task-breakdown/SKILL.md) - breaks large, complex things into a clear sequence of practical tasks. I use it to turn broad ideas, plans, or initiatives into focused work I can execute step by step.
 - [`web-agent`](./skills/web-agent/SKILL.md) - helps an agent navigate browser sessions well, with guardrails for authenticated flows, logged-in sessions, and safe browser automation.
 
 ## Install
@@ -29,5 +30,5 @@ npx skills add e-nicolas/skills --skill pragmatic
 From this repository, install the local skills globally for Codex:
 
 ```bash
-npx skills add . --agent codex --global
+npx skills add . --global
 ```
