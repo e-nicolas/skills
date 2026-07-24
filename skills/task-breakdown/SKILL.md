@@ -1,6 +1,6 @@
 ---
 name: task-breakdown
-description: Break ideas, plans, initiatives, or ambiguous requests into practical, granular tasks organized as a clear delivery narrative with natural progression.
+description: Breaks ideas, plans, initiatives, or ambiguous requests into practical delivery tasks. Use when the user asks for task breakdowns, implementation sequencing, execution plans, or granular next steps. Produces ordered tasks with goals, prerequisites, done criteria, and validation checks.
 metadata:
   tags:
     - planning
