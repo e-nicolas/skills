@@ -14,8 +14,6 @@ Agent skills by [Emmanouil Nicolas](https://github.com/e-nicolas), used in my da
 
 ## Install in Claude
 
-No terminal or `npx` required:
-
 1. Open **Customize → Plugins** in Claude.
 2. Select **Add marketplace**.
 3. Select **Add from a repository**.
