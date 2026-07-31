@@ -1,6 +1,6 @@
 ---
 name: web-agent
-description: Sets safe operating rules for browser-based web automation. Use when an agent will use a browser, Chrome DevTools, agent-browser, or an embedded browser tool, especially for authenticated flows. Requires explicit URLs, user-confirmed login, headed mode when needed, and safe handling of session data.
+description: Set safe rules for browser automation, especially authenticated flows. Use with browsers or DevTools to protect login control, session data, and navigation scope.
 ---
 
 # Web Agent

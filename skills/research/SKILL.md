@@ -1,6 +1,6 @@
 ---
 name: research
-description: Coordinates in-depth research across different sources for comparison. Use when the user asks to investigate a topic through parallel research units, summarize their key differentiators in separate Markdown reports, and generate a final index linking them.
+description: Coordinate in-depth, parallel research across sources. Use to investigate a topic, compare findings, create separate Markdown reports, and generate a linked index.
 ---
 
 # Research

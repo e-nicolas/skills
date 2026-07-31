@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "agent-skills",
+  "description": "Focused agent skills for pragmatic reasoning, research, planning, prompt rewriting, and safe web automation.",
+  "author": {
+    "name": "Emmanouil Nicolas"
+  },
+  "homepage": "https://github.com/e-nicolas/skills",
+  "repository": "https://github.com/e-nicolas/skills",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "productivity",
+    "research",
+    "planning"
+  ]
+}

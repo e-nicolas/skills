@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "e-nicolas-skills",
+  "owner": {
+    "name": "Emmanouil Nicolas"
+  },
+  "metadata": {
+    "description": "Agent skills by Emmanouil Nicolas"
+  },
+  "plugins": [
+    {
+      "name": "agent-skills",
+      "source": "./",
+      "description": "Pragmatic reasoning, research, planning, prompt rewriting, and safe web automation.",
+      "author": {
+        "name": "Emmanouil Nicolas"
+      },
+      "homepage": "https://github.com/e-nicolas/skills",
+      "repository": "https://github.com/e-nicolas/skills",
+      "license": "MIT",
+      "category": "Productivity",
+      "tags": [
+        "skills",
+        "research",
+        "planning"
+      ]
+    }
+  ]
+}
